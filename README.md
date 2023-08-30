@@ -34,3 +34,5 @@ Nesta página, apenas os convidados que confirmaram sua presença são listados.
 
 Nesta página, apenas os convidados que indicaram que não estarão presentes são listados. Os nomes dos convidados ausentes são exibidos com seus status de presença.
 
+###Esse resultado é oriundo de um curso que estou fazendo com a DevMasterTeam.
+
